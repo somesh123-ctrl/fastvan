@@ -1,0 +1,76 @@
+/* Container styling */
+.cancel-order-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styling */
+  .cancel-order-heading {
+    margin: 0 0 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Form styling */
+  .cancel-order-form {
+    margin-bottom: 20px;
+  }
+  
+  /* Label styling */
+  .order-id-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Input styling */
+  .order-id-input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #495057;
+  }
+  
+  /* Button styling */
+  .cancel-order-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cancel-order-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Response container styling */
+  .cancel-response {
+    margin-top: 20px;
+  }
+  
+  /* Response heading styling */
+  .response-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  /* Response message styling */
+  .response-message {
+    font-size: 16px;
+    color: #333;
+  }
+  
